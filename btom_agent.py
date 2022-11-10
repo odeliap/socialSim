@@ -7,7 +7,6 @@ https://github.com/KennethEnevoldsen/tomsup
 
 # ---------- Libraries ----------
 
-import numpy as np
 import tomsup as ts
 
 
@@ -45,22 +44,3 @@ class BToMAgent():
         """
         resp_tom = self.tom.compete(p_matrix = self.payoffMatrix, op_choice=opChoice, agent=1)
         return resp_tom
-
-    @staticmethod
-    def get_dist(a: tuple, b: tuple):
-        """
-        Get distance between two tuples.
-
-        :param a: first tuple
-        :type: tuple
-
-        :param b: second tuple
-        :type: tuple
-
-        :return dist: distance between the two input tuples
-        :rtype: double
-        """
-        a_np = np.asarray(a)
-        b_np = np.asarray(b)
-        dist = np.linalg.norm(a_np-b_np)
-        return dist
