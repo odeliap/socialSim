@@ -2,3 +2,5 @@ companionsKQML==1.1.4
 psutil==5.8.0
 pykqml==1.3
 python_dateutil==2.8.2
+tomsup==1.1.5
+streamlit
