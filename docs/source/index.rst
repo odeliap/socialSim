@@ -7,14 +7,15 @@ Welcome to socialSim's documentation!
 =====================================
 
 Evaluation for this project can be conducted using alternative agents, such
-as :ref:`Bayesian Theory of Mind (BToM) agents <btomintro>`.
+as agents built with :ref:`Bayesian Theory of Mind (BToM) <btomintro>` logic.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 5
+   :caption: Bayesian Theory of Mind (BToM):
 
    bayesiantheoryofmindintro
-
+   btomimplementation
+   introductiontotomsup
 
 
 Indices and tables
