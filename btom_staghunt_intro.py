@@ -1,7 +1,10 @@
 """
-Rules for Bayesian Theory of Mind staghunt game!
+Rules for Bayesian Theory of Mind stag hunt game!
 
 This is a proof of concept for using streamlit as the ui for this game.
+
+Intro text based off of tomsup matching pennies tutorial:
+https://github.com/KennethEnevoldsen/tomsup/blob/master/tutorials/psychopy_experiment/matching_pennies.py
 """
 
 # ---------- Libraries ----------

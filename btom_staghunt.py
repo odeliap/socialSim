@@ -3,6 +3,9 @@ Bayesian Theory of Mind (BToM) stag hunt game
 
 Based off of tomsup matching pennies tutorial:
 https://github.com/KennethEnevoldsen/tomsup/blob/master/tutorials/psychopy_experiment/matching_pennies.py
+
+This code utilizes pyamaze:
+https://github.com/MAN1986/pyamaze
 """
 
 # ---------- Libraries ----------

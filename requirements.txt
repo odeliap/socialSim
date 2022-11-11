@@ -5,3 +5,5 @@ python_dateutil==2.8.2
 tomsup==1.1.5
 streamlit
 pyamaze
+sphinx
+sphinx-rtd-theme
