@@ -6,6 +6,9 @@ https://github.com/KennethEnevoldsen/tomsup/blob/master/tutorials/psychopy_exper
 
 This code utilizes pyamaze:
 https://github.com/MAN1986/pyamaze
+
+and the a* algorithm from:
+https://levelup.gitconnected.com/a-star-a-search-for-solving-a-maze-using-python-with-visualization-b0cae1c3ba92
 """
 
 # ---------- Libraries ----------
